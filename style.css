@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.wrapper h1 {
+  text-align: center;
+  flex-basis: 100%;
+}
+
+.cat-image {
+  max-width: 500px;
+  height: 500px;
+}
